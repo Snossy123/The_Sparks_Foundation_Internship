@@ -16,3 +16,6 @@
 #### (ii) What all business problems you can derive by exploring the data?
 
 #### (iii) Dash Boards - explaining the charts and interpretations.
+
+# Task 4 : Global-Terrorism-Attacks
+#### Global Terrorism Attacks Aalyzed time interval is 1970-2017, except 1993. The data analysis based on 4,000,000 new articles and 25,000 new sources. This Data Analysis contains More than 180,000 Terrorist Attacks More than 75,000 bombings 17,000 assassinations 9,000 kidnappings
