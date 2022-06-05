@@ -5,8 +5,12 @@
 # Task 1 : Student Marks Prediction
 #### To predict the score of a student based on # of hours studied Used Linear regression to unvariante regression of independent variable Hours to predict the dependable variable Scores and further used this regression model to predict the score of a student who studies for 9.25 hrs/ day. The model validation has been evaluated with Goodness of Fitness - R2, MSE. Also tested T-test and F-test stastictics to evaluate the model.
 
+[please check video present project in it](https://www.linkedin.com/posts/solieman-snossy_task1-task1-businessanalytics-activity-6896909367787053056-pPM-?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
 # Task 2 : Prediction-using-Unsupervised-ML
 #### Task : From the given 'IRIS' dataset predict the optimal number of clusters and represents it visually Data set : https://bit.ly/3kXTdox
+
+[please check video present project in it](https://www.linkedin.com/posts/solieman-snossy_task2-task2-businessanalytics-activity-6898793303710543872-dalJ?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 # Task 3 : Exploratory Data Analysis Retail-SuperStore
 ## The task is :
@@ -16,6 +20,8 @@
 #### (ii) What all business problems you can derive by exploring the data?
 
 #### (iii) Dash Boards - explaining the charts and interpretations.
+
+[please check video present project in it](https://www.linkedin.com/posts/solieman-snossy_task3-task3-businessanalytics-activity-6899870599766786048--W7K?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 # Task 4 : Global-Terrorism-Attacks 
 #### Global Terrorism Attacks Aalyzed time interval is 1970-2017, except 1993. The data analysis based on 4,000,000 new articles and 25,000 new sources. This Data Analysis contains More than 180,000 Terrorist Attacks More than 75,000 bombings 17,000 assassinations 9,000 kidnappings
